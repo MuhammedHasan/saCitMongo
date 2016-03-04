@@ -9,7 +9,8 @@ def id_to_path(id, type_doc):
 
 def get_xml_last_version(id):
     xml_dir = id_to_path(id, 'xml')
-    return os.listdir(xml_dir)[-1]
+    v = len(os.listdir(xml_dir)) - 1
+    return id + 'v' + str(v) + '.xml'
 
 
 def get_text_paper(id):
