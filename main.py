@@ -20,7 +20,7 @@ def main(paper_colletion_number):
         try:
             save_to_mongo(i)
         except Exception as e:
-            open('error-log.txt', 'a').write(str(i) + ' ' + e.message)
+            open('error-log.txt', 'a').write(str(i) + ' ' + e.message + '\n')
 
 
 if __name__ == '__main__':
