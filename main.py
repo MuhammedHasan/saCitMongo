@@ -15,7 +15,10 @@ def save_to_mongo(paper_id):
 
 def main(paper_colletion_number):
     for i in paperead.list_paper_id_in_paper_colletion(paper_colletion_number):
-        save_to_mongo(i)
+        try:
+            save_to_mongo(i)
+        except Exception as e:
+            open('error-log.txt', 'w').write(str(i) + ' ' + e.message)
 
 
 if __name__ == '__main__':
