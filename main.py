@@ -16,12 +16,13 @@ def save_to_mongo(paper_id):
 
 
 def main(paper_colletion_number):
-    for i in paperead.list_paper_id_in_paper_colletion(paper_colletion_number):
-        try:
-            save_to_mongo(i)
-        except Exception as e:
-            open('error-log.txt', 'a').write(str(i) + ' ' + e.message + '\n')
+    for j in range(3, 648):
+        for i in paperead.list_paper_id_in_paper_colletion(j):
+            try:
+                save_to_mongo(i)
+            except Exception as e:
+                open('error-log.txt', 'a').write(str(i) + ' ' + e.message + '\n')
 
 
 if __name__ == '__main__':
-    main(int(sys.argv[1]))
+    main()
