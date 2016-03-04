@@ -15,7 +15,7 @@ def save_to_mongo(paper_id):
     colletion.insert_one(paper)
 
 
-def main(paper_colletion_number):
+def main():
     for j in range(3, 648):
         for i in paperead.list_paper_id_in_paper_colletion(j):
             try:
