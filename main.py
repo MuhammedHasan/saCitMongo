@@ -8,7 +8,9 @@ def save_to_mongo(paper_id):
     client = MongoClient()
     db = client.paper_db
     colletion = db.paper
-    paper = paperead.get_xml_paper(paper_id)['document']
+    doc = paperead.get_xml_paper(paper_id)
+    paper = doc['document']
+    paper['paper_id'] = doc['@id']
     paper['text'] = paperead.get_text_paper(paper_id)
     colletion.insert_one(paper)
 
@@ -18,7 +20,7 @@ def main(paper_colletion_number):
         try:
             save_to_mongo(i)
         except Exception as e:
-            open('error-log.txt', 'w').write(str(i) + ' ' + e.message)
+            open('error-log.txt', 'a').write(str(i) + ' ' + e.message)
 
 
 if __name__ == '__main__':
