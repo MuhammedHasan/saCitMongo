@@ -1,0 +1,342 @@
+<document id="10.1.1.582.1">
+  <title src="SVM HeaderParse 0.2">Repatriation Taxes and Dividend Distortions</title>
+  <abstract src="SVM HeaderParse 0.2">The statistical analysis of firm-level data on U.S. multinational companies was conducted at the</abstract>
+  <year src="SVM HeaderParse 0.2">2001</year>
+  <keywords></keywords>
+  <authors>
+    <author id="21853091">
+      <name src="SVM HeaderParse 0.2">Mihir A. Desai</name>
+      <affil src="SVM HeaderParse 0.2">Harvard University and NBER</affil>
+      <order>1</order>
+    </author>
+    <author id="21853092">
+      <name src="SVM HeaderParse 0.2">C. Fritz Foley</name>
+      <affil src="SVM HeaderParse 0.2">Harvard University</affil>
+      <order>2</order>
+    </author>
+    <author id="21853093">
+      <name src="SVM HeaderParse 0.2">James R. Hines</name>
+      <affil src="SVM HeaderParse 0.2">; University of Michigan and NBER</affil>
+      <address src="SVM HeaderParse 0.2">; JEL Classifications: F23, G35, H25, H87.</address>
+      <order>3</order>
+    </author>
+    <author id="21853094">
+      <name src="SVM HeaderParse 0.2">Mihir A. Desai</name>
+      <affil src="SVM HeaderParse 0.2">Harvard Business School Harvard Business School University of Michigan</affil>
+      <address src="SVM HeaderParse 0.2">Morgan 363 Morgan 228b Business School; Soldiers Field Soldiers Field 701 Tappan Street; Boston, MA 02163 Boston, MA 02...</address>
+      <order>4</order>
+    </author>
+    <author id="21853095">
+      <name src="SVM HeaderParse 0.2">C. Fritz</name>
+      <affil src="SVM HeaderParse 0.2">Harvard Business School Harvard Business School University of Michigan</affil>
+      <address src="SVM HeaderParse 0.2">Morgan 363 Morgan 228b Business School; Soldiers Field Soldiers Field 701 Tappan Street; Boston, MA 02163 Boston, MA 02...</address>
+      <order>5</order>
+    </author>
+    <author id="21853096">
+      <name src="SVM HeaderParse 0.2">Foley James</name>
+      <affil src="SVM HeaderParse 0.2">Harvard Business School Harvard Business School University of Michigan</affil>
+      <address src="SVM HeaderParse 0.2">Morgan 363 Morgan 228b Business School; Soldiers Field Soldiers Field 701 Tappan Street; Boston, MA 02163 Boston, MA 02...</address>
+      <order>6</order>
+    </author>
+    <author id="21853097">
+      <name src="SVM HeaderParse 0.2">R. Hines</name>
+      <affil src="SVM HeaderParse 0.2">Harvard Business School Harvard Business School University of Michigan</affil>
+      <address src="SVM HeaderParse 0.2">Morgan 363 Morgan 228b Business School; Soldiers Field Soldiers Field 701 Tappan Street; Boston, MA 02163 Boston, MA 02...</address>
+      <order>7</order>
+    </author>
+  </authors>
+  <citations src="ParsCit 1.0">
+    <citation id="122230563">
+      <authors>Rosanne Altshuler,Harry Grubert</authors>
+      <title>Where Will They Go if We Go Territorial? Dividend Exemption and the Location Decisions of U.S. Multinational Corporations,” Working paper</title>
+      <venue>Rutgers University</venue>
+      <venType>CONFERENCE</venType>
+      <year>2001</year>
+      <raw>Altshuler, Rosanne and Harry Grubert, “Where Will They Go if We Go Territorial? Dividend Exemption and the Location Decisions of U.S. Multinational Corporations,” Working paper, Rutgers University, 2001. Altshuler, Rosanne and Harry Grubert,
+        “Repatriation Taxes, Repatriation Strategies, and Multinational Financial Policy,” Journal of Public Economics, forthcoming. Altshuler, Rosanne and T. Scott Newlon, “The Effects of U.S. Tax Policy on the Income Repatriation Patterns of U.S.
+        Multinational Corporations,” in Alberto Giovannini, R.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230564">
+      <authors>Glenn Hubbard,Joel Slemrod,eds</authors>
+      <venue>Studies in International Taxation (Chicago</venue>
+      <venType>CONFERENCE</venType>
+      <year>1993</year>
+      <pages>77--115</pages>
+      <editors>Altshuler, Rosanne, T. Scott Newlon and William C. Randolph</editors>
+      <publisher>University of Chicago Press</publisher>
+      <raw>Glenn Hubbard, and Joel Slemrod, eds., Studies in International Taxation (Chicago: University of Chicago Press, 1993), 77-115. Altshuler, Rosanne, T. Scott Newlon and William C. Randolph, “Do Repatriation Taxes Matter? Evidence from the Tax
+        Returns of U.S. Multinationals,” in Martin Feldstein, James R.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230565">
+      <authors>Hines Jr,R Glenn Hubbard,eds</authors>
+      <venue>The Effects of Taxation on Multinational Corporations (Chicago</venue>
+      <venType>CONFERENCE</venType>
+      <year>1995</year>
+      <pages>253--272</pages>
+      <publisher>University of Chicago Press</publisher>
+      <raw>Hines Jr., and R. Glenn Hubbard, eds., The Effects of Taxation on Multinational Corporations (Chicago: University of Chicago Press, 1995), 253-272.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230566">
+      <authors>Donald W K Andrews,Moshe Buchinsky</authors>
+      <title>A Three-step Method for Choosing the Number of Bootstrap Repetitions</title>
+      <venue>Econometrica, January 2000</venue>
+      <venType>JOURNAL</venType>
+      <pages>23--51</pages>
+      <volume>68</volume>
+      <raw>Andrews, Donald W.K. and Moshe Buchinsky, “A Three-step Method for Choosing the Number of Bootstrap Repetitions,” Econometrica, January 2000, 68 (1), 23-51.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230567">
+      <authors>Alan J Auerbach</authors>
+      <title>Wealth Maximization and the Cost of Capital,” Quarterly</title>
+      <venue>Journal of Economics</venue>
+      <venType>JOURNAL</venType>
+      <year>1979</year>
+      <pages>433--446</pages>
+      <volume>93</volume>
+      <raw>Auerbach, Alan J., “Wealth Maximization and the Cost of Capital,” Quarterly Journal of Economics, August 1979, 93 (3), 433-446.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230568">
+      <authors>Alan J Auerbach,R James</authors>
+      <venue>Hines Jr., “Taxation and Economic Efficiency,” NBER Working Paper No. 8181</venue>
+      <venType>CONFERENCE</venType>
+      <year>2001</year>
+      <raw>Auerbach, Alan J. and James R. Hines Jr., “Taxation and Economic Efficiency,” NBER Working Paper No. 8181, March 2001.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230569">
+      <authors>David F Bradford</authors>
+      <title>The Incidence and Allocation Effects of a Tax on Corporate Distributions</title>
+      <venue>Journal of Public Economics</venue>
+      <venType>JOURNAL</venType>
+      <year>1981</year>
+      <pages>1--22</pages>
+      <volume>15</volume>
+      <raw>Bradford, David F., “The Incidence and Allocation Effects of a Tax on Corporate Distributions,” Journal of Public Economics, February 1981, 15 (1), 1-22.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230570">
+      <authors>Mihir A Desai,James R Hines Jr,“‘Basket’</authors>
+      <venue>Cases: Tax Incentives and International Joint Venture Participation by American Multinational Firms,” Journal of Public Economics</venue>
+      <venType>CONFERENCE</venType>
+      <year>1999</year>
+      <pages>379--402</pages>
+      <volume>71</volume>
+      <raw>Desai, Mihir A. and James R. Hines Jr., “‘Basket’ Cases: Tax Incentives and International Joint Venture Participation by American Multinational Firms,” Journal of Public Economics, March 1999, 71 (3), 379-402.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230571">
+      <authors>Mihir A Desai,C Fritz Foley,R James</authors>
+      <title>Hines Jr., “Dividend Policy within the Firm,” working paper</title>
+      <year>2001</year>
+      <raw>Desai, Mihir A., C. Fritz Foley and James R. Hines Jr., “Dividend Policy within the Firm,” working paper, Harvard University, 2001.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230572">
+      <authors>Eugene F Fama,Harvey Babiak</authors>
+      <title>Dividend Policy: An Empirical Analysis</title>
+      <venue>Journal of the American Statistical Association</venue>
+      <venType>JOURNAL</venType>
+      <year>1968</year>
+      <pages>1132--1161</pages>
+      <volume>63</volume>
+      <raw>Fama, Eugene F. and Harvey Babiak, “Dividend Policy: An Empirical Analysis,” Journal of the American Statistical Association, December 1968, 63 (324), 1132-1161.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230573">
+      <authors>Harry Grubert</authors>
+      <title>Taxes and the Division of Foreign Operating Income Among Royalties, Interest, Dividends and Retained Earnings</title>
+      <venue>Journal of Public Economics</venue>
+      <venType>JOURNAL</venType>
+      <year>1998</year>
+      <pages>269--290</pages>
+      <volume>68</volume>
+      <raw>Grubert, Harry, “Taxes and the Division of Foreign Operating Income Among Royalties, Interest, Dividends and Retained Earnings,” Journal of Public Economics, May 1998, 68 (2), 269-290.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230574">
+      <authors>Harry Grubert</authors>
+      <title>Dividend Exemption and Tax Revenue,” working paper, U.S. Department of the Treasury</title>
+      <pages>2001</pages>
+      <raw>Grubert, Harry, “Dividend Exemption and Tax Revenue,” working paper, U.S. Department of the Treasury, 2001a.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230575">
+      <authors>Harry Grubert</authors>
+      <title>Tax Planning by Companies and Tax Competition by Governments: Is There Evidence of Changes</title>
+      <venue>in Behavior?” in James R. Hines Jr., ed. International Taxation and Multinational Activity (Chicago</venue>
+      <venType>CONFERENCE</venType>
+      <pages>113--139</pages>
+      <publisher>University of Chicago Press</publisher>
+      <volume>2001</volume>
+      <raw>Grubert, Harry, “Tax Planning by Companies and Tax Competition by Governments: Is There Evidence of Changes in Behavior?” in James R. Hines Jr., ed. International Taxation and Multinational Activity (Chicago: University of Chicago Press, 2001b),
+        113-139.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230576">
+      <authors>Harry Grubert,John Mutti</authors>
+      <venue>Taxing International Business Income: Dividend Exemption versus the Current System (Washington D.C.: American Enterprise Institute</venue>
+      <venType>CONFERENCE</venType>
+      <year>2001</year>
+      <raw>Grubert, Harry and John Mutti, Taxing International Business Income: Dividend Exemption versus the Current System (Washington D.C.: American Enterprise Institute, 2001).</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230577">
+      <authors>David G Hartman</authors>
+      <title>Tax Policy and Foreign Direct Investment</title>
+      <venue>Journal of Public Economics</venue>
+      <venType>JOURNAL</venType>
+      <year>1985</year>
+      <pages>107--121</pages>
+      <volume>26</volume>
+      <raw>Hartman, David G., “Tax Policy and Foreign Direct Investment,” Journal of Public Economics, February 1985, 26 (1), 107-121.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230578">
+      <authors>James R Hines</authors>
+      <title>The Flight Paths of Migratory Corporations</title>
+      <venue>Journal of Accounting, Auditing, and Finance, Fall</venue>
+      <venType>JOURNAL</venType>
+      <year>1991</year>
+      <pages>447--479</pages>
+      <volume>6</volume>
+      <raw>Hines, James R., Jr., “The Flight Paths of Migratory Corporations,” Journal of Accounting, Auditing, and Finance, Fall 1991, 6 (4), 447-479.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230579">
+      <authors>James R Hines</authors>
+      <title>Credit and Deferral as International Investment Incentives</title>
+      <venue>Journal of Public Economics</venue>
+      <venType>JOURNAL</venType>
+      <year>1994</year>
+      <pages>323--347</pages>
+      <volume>55</volume>
+      <raw>Hines, James R., Jr., “Credit and Deferral as International Investment Incentives.” Journal of Public Economics, October 1994, 55 (2), 323-347.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230580">
+      <authors>James R Hines,“Taxes</authors>
+      <title>Technology Transfer, and the R&amp;D Activities of Multinational Firms</title>
+      <venue>The Effects of Taxation on Multinational Corporations (Chicago</venue>
+      <venType>CONFERENCE</venType>
+      <year>1995</year>
+      <pages>225--248</pages>
+      <editors>in Martin Feldstein, James R. Hines Jr., and R. Glenn Hubbard, eds</editors>
+      <publisher>University of Chicago Press</publisher>
+      <raw>Hines, James R., Jr., “Taxes, Technology Transfer, and the R&amp;D Activities of Multinational Firms,” in Martin Feldstein, James R. Hines Jr., and R. Glenn Hubbard, eds. The Effects of Taxation on Multinational Corporations (Chicago: University
+        of Chicago Press, 1995), 225-248.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230581">
+      <authors>James R Hines</authors>
+      <title>Lessons from Behavioral Responses to</title>
+      <venue>International Taxation,” National Tax Journal</venue>
+      <venType>JOURNAL</venType>
+      <year>1999</year>
+      <pages>305--322</pages>
+      <volume>52</volume>
+      <raw>Hines, James R., Jr., “Lessons from Behavioral Responses to International Taxation,” National Tax Journal, June 1999a, 52 (2), 305-322.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230582">
+      <authors>James R Hines</authors>
+      <title>Three Sides of Harberger Triangles</title>
+      <venue>Journal of Economic Perspectives, Spring 1999b</venue>
+      <venType>JOURNAL</venType>
+      <pages>167--188</pages>
+      <volume>13</volume>
+      <raw>Hines, James R., Jr., “Three Sides of Harberger Triangles,” Journal of Economic Perspectives, Spring 1999b, 13 (2), 167-188.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230583">
+      <authors>James R Hines</authors>
+      <title>The Case against Deferral: A Deferential Reconsideration</title>
+      <venue>National Tax Journal, September 1999c</venue>
+      <venType>JOURNAL</venType>
+      <pages>385--404</pages>
+      <volume>52</volume>
+      <raw>Hines, James R., Jr., “The Case against Deferral: A Deferential Reconsideration,” National Tax Journal, September 1999c, 52 (3), 385-404.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230584">
+      <authors>R Glenn Hubbard</authors>
+      <title>Coming Home to America: Dividend Repatriations by U.S</title>
+      <venue>Economy (Chicago: University of Chicago</venue>
+      <venType>CONFERENCE</venType>
+      <year>1990</year>
+      <pages>161--200</pages>
+      <publisher>Press</publisher>
+      <raw>Hines, James R., Jr. and R. Glenn Hubbard, “Coming Home to America: Dividend Repatriations by U.S. Multinationals,” in Assaf Razin and Joel Slemrod, eds., Taxation in the Global Economy (Chicago: University of Chicago Press, 1990), 161-200.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230585">
+      <authors>Gary C Hufbauer,U S</authors>
+      <venue>Taxation of International Income: Blueprint for Reform (Washington D.C.: Institute for International Economics</venue>
+      <venType>CONFERENCE</venType>
+      <year>1992</year>
+      <raw>Hufbauer, Gary C., U.S. Taxation of International Income: Blueprint for Reform (Washington D.C.: Institute for International Economics, 1992).</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230586">
+      <authors>Mervyn A King</authors>
+      <venue>Public Policy and the Corporation</venue>
+      <venType>CONFERENCE</venType>
+      <year>1977</year>
+      <publisher>Chapman and Hall</publisher>
+      <pubAddress>London</pubAddress>
+      <raw>King, Mervyn A., Public Policy and the Corporation (London: Chapman and Hall, 1977).</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230587">
+      <authors>John Lintner</authors>
+      <title>Distribution of Incomes of Corporations Among Dividends, Retained Earnings</title>
+      <venue>and Taxes,” American Economic Review</venue>
+      <venType>JOURNAL</venType>
+      <year>1956</year>
+      <pages>97--113</pages>
+      <volume>46</volume>
+      <raw>Lintner, John, “Distribution of Incomes of Corporations Among Dividends, Retained Earnings, and Taxes,” American Economic Review, May 1956, 46 (2), 97-113.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230588">
+      <authors>Raymond Mataloni</authors>
+      <title>A Guide to BEA Statistics on U.S</title>
+      <venue>Multinational Companies,” Survey of Current Business</venue>
+      <venType>CONFERENCE</venType>
+      <year>1995</year>
+      <pages>38--53</pages>
+      <volume>75</volume>
+      <raw>Mataloni, Raymond, “A Guide to BEA Statistics on U.S. Multinational Companies,” Survey of Current Business, March 1995, 75 (3), 38-53.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+    <citation id="122230589">
+      <authors>John Mutti</authors>
+      <title>Tax Incentives and Repatriation Decisions of U.S</title>
+      <venue>Multinational Corporations,” National Tax Journal</venue>
+      <venType>JOURNAL</venType>
+      <year>1981</year>
+      <pages>241--248</pages>
+      <volume>34</volume>
+      <raw>Mutti, John, “Tax Incentives and Repatriation Decisions of U.S. Multinational Corporations,” National Tax Journal, June 1981, 34 (2), 241-248.</raw>
+      <paperid>10.1.1.582.1</paperid>
+    </citation>
+  </citations>
+  <fileInfo>
+    <crawldate>Mar 27, 2015</crawldate>
+    <repID>rep1</repID>
+    <conversionTrace>PDFBox</conversionTrace>
+    <urls>
+      <url>http://www.bus.umich.edu/OTPR/WP2001-10.pdf</url>
+    </urls>
+    <checkSums>
+      <checkSum>
+        <fileType>pdf</fileType>
+        <sha1>1a9f3bcf5d2efdbb671ee9ba55339a4adbb7a121</sha1>
+      </checkSum>
+    </checkSums>
+  </fileInfo>
+</document>
