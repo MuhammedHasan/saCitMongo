@@ -10,7 +10,7 @@ def save_to_mongo(paper_id):
     colletion = db.paper
     doc = paperead.get_xml_paper(paper_id)
     paper = doc['document']
-    paper['paper_id'] = doc['@id']
+    paper['paper_id'] = doc['document']['@id']
     paper['text'] = paperead.get_text_paper(paper_id)
     colletion.insert_one(paper)
 
