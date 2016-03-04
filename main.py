@@ -1,6 +1,7 @@
 from pymongo import MongoClient
-from PaperContext import paperead
+from PaperContext import paperead, settings
 import sys
+import os
 
 
 def save_to_mongo(paper_id):
@@ -12,10 +13,10 @@ def save_to_mongo(paper_id):
     colletion.insert_one(paper)
 
 
-def main(paper_colletion_number, number_paper_in_colletion):
-    for j in range(1, number_paper_in_colletion):
-        save_to_mongo('10.1.1.%d.%d' % (paper_colletion_number, j))
+def main(paper_colletion_number):
+    for i in paperead.list_paper_id_in_paper_colletion(paper_colletion_number):
+        save_to_mongo(i)
 
 
 if __name__ == '__main__':
-    main(int(sys.argv[1]), int(sys.argv[2]))
+    main(int(sys.argv[1]))

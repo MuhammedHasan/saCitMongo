@@ -29,6 +29,9 @@ class TestPapeRead(unittest.TestCase):
         self.assertEqual(paper_xml['document']['clusterid'], '9597914')
         self.assertEqual(paper_xml['document']['year']['#text'], '2001')
 
+    def test_list_paper_id_in_paper_colletion(self):
+        paper_ids = paperead.list_paper_id_in_paper_colletion(582)
+        self.assertEqual(paper_ids, [self.id])
 
 if __name__ == '__main__':
     unittest.main()
