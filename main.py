@@ -2,6 +2,8 @@ from pymongo import MongoClient
 from PaperContext import paperead, settings
 import sys
 import os
+from joblib import Parallel, delayed
+import multiprocessing
 
 
 def save_to_mongo(paper_id):
@@ -15,14 +17,18 @@ def save_to_mongo(paper_id):
     colletion.insert_one(paper)
 
 
-def main():
-    for j in range(3, 648):
-        for i in paperead.list_paper_id_in_paper_colletion(j):
-            try:
-                save_to_mongo(i)
-            except Exception as e:
-                open('error-log.txt', 'a').write(str(i) + ' ' + e.message + '\n')
+def job(paper_colletion_number):
+    for i in paperead.list_paper_id_in_paper_colletion(paper_colletion_number):
+        try:
+            save_to_mongo(i)
+        except Exception as e:
+            open('error-log.txt', 'a').write(str(i) + ' ' + e.message + '\n')
+
+
+def main(start, end):
+    num_cores = multiprocessing.cpu_count()
+    Parallel(n_jobs=num_cores)(delayed(job)(i) for i in range(start, end))
 
 
 if __name__ == '__main__':
-    main()
+    main(int(sys.argv[1]), int(sys.argv[2]))
