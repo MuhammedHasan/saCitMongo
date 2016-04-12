@@ -25,6 +25,7 @@ class TestPapeRead(unittest.TestCase):
 
     def test_get_xml_paper(self):
         paper_xml = paperead.get_xml_paper(self.id)
+        print paper_xml['document']
         self.assertEqual(paper_xml['document']['@id'], self.id)
         self.assertEqual(paper_xml['document']['clusterid'], '9597914')
         self.assertEqual(paper_xml['document']['year']['#text'], '2001')
